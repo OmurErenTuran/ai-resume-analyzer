@@ -1,15 +1,15 @@
 # 🤖 AI Resume Analyzer Pro
 
-An AI-powered resume analyzer built with **Python, Streamlit, and Google Gemini AI**.
+AI-powered ATS Resume Analyzer built with **Python, Streamlit, and Google Gemini AI**.
 
-## ✨ Features
+## 🚀 Features
 
 * 📄 Upload Resume PDF.
-* 💼 Compare resume with any job description.
+* 💼 Compare Resume with any Job Description.
 * 🎯 ATS Match Score Dashboard.
 * 📊 Skills Match Overview (Donut Chart).
-* 📉 Missing Skills Chart.
-* 🤖 AI Resume Analysis using Gemini.
+* 📉 Missing Skills Visualization.
+* 🤖 AI Resume Analysis using Gemini AI.
 * ✨ AI Resume Rewrite tailored to a target job.
 * 📥 Download AI Analysis Report as PDF.
 
@@ -21,15 +21,14 @@ An AI-powered resume analyzer built with **Python, Streamlit, and Google Gemini 
 * Matplotlib
 * ReportLab
 * PyPDF
+* Python-dotenv
 
-## 🚀 How to Run
+## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-resume-analyzer.git
-cd ai-resume-analyzer
-
+git clone https://github.com/OmurErenTuran/ai-resume-analyzer-pro.git
+cd ai-resume-analyzer-pro
 pip install -r requirements.txt
-
 streamlit run app.py
 ```
 
@@ -41,10 +40,17 @@ Create a `.env` file:
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 ```
 
-## 📸 Preview
+## 📌 Project Highlights
 
-Modern ATS dashboard with AI-powered resume analysis and rewriting.
+* ATS Resume Matching
+* Missing Skills Detection
+* Resume Keyword Optimization
+* AI Resume Rewrite
+* Recruiter-style Resume Feedback
+* PDF Report Generation
 
 ## 👨‍💻 Author
 
-**Ömür Eren Turan**
+**Eren Turan**
+
+Cloud & IT Support Portfolio Project
