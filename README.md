@@ -1,4 +1,13 @@
 # 🤖 AI Resume Analyzer Pro
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![ReportLab](https://img.shields.io/badge/ReportLab-PDF-red?style=for-the-badge)
+![PyPDF](https://img.shields.io/badge/PyPDF-Extract_Text-blue?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 <p align="center">
   AI-powered ATS Resume Analyzer built with <b>Python, Streamlit & Google Gemini AI</b>.
