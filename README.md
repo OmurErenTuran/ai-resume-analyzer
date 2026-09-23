@@ -24,7 +24,7 @@
 
 | ATS Dashboard                  | Skills Match Overview                |
 | ------------------------------ | ------------------------------------ |
-| ![](screenshots/dashboard.png) | ![](screenshots/skills-overview.png) |
+| ![](screenshots/dashboard.png) | ![](screenshots/skills-match-overview.png) |
 
 The dashboard instantly compares your resume with a target job description and displays:
 
@@ -37,7 +37,7 @@ The dashboard instantly compares your resume with a target job description and d
 
 ### 🤖 AI Resume Analysis
 
-![AI Analysis](screenshots/analysis.png)
+![AI Analysis](screenshots/AI-resume-analyze.png)
 
 Gemini AI provides recruiter-style feedback including:
 
